@@ -1,0 +1,37 @@
+.box4{
+    background-color: #b5076b;
+    height: 160px;;
+}
+
+.myButtonBox4 {
+	box-shadow: 3px 4px 0px 0px #ccdde3;
+	background:linear-gradient(to bottom, #120312 5%, #800980 100%);
+	background-color:#120312;
+	border-radius:15px;
+	border:1px solid #851885;
+	display:inline-block;
+	cursor:pointer;
+	color:#f0f0f0;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+}
+.myButtonBox4:hover {
+	background:linear-gradient(to bottom, #800980 5%, #120312 100%);
+	background-color:#800980;
+}
+.myButtonBox4:active {
+	position:relative;
+	top:1px;
+}
+
+.box4head{
+    display: block;
+}
+.box4sec{
+    
+  
+    
+}

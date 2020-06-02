@@ -1,0 +1,26 @@
+.box9{
+    background-color: #6a097d;
+	height: 300px;
+}
+
+.myButtonbox9 {
+	background-color:#ba71d9;
+	border-radius:28px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.myButtonbox9:hover {
+	background-color:#ffffff;
+}
+.myButtonbox9:active {
+	position:relative;
+	top:1px;
+}
